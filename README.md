@@ -1,6 +1,6 @@
 ### Hi there 👋
-Em processo de aprendizado. <br>
-Contato: joaovinicius2525@gmail.com.
+- Em processo de aprendizado. 
+- Contato: joaovinicius2525@gmail.com.
 <!--
 **Joaovsr/Joaovsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
