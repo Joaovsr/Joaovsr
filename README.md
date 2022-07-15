@@ -1,4 +1,5 @@
 ### Hi, I'm João Vinicius Rodrigues 👋
+📫 How to reach me: joaovinicius2525@gmail.com
 <!--
 **Joaovsr/Joaovsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
